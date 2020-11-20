@@ -1,0 +1,19 @@
+Package: ShinyProdPrereq
+Title: ShinyApp to Production Minimal Example Prerequisites
+Version: 0.0.0.9000
+Authors@R: person('Mirai', 'Solutions', email = 'info@mirai-solutions.com', role = c('cre', 'aut'))
+Description: Prerequisites to ShinyProdWorkshop.
+License: AGPL-3
+Imports: 
+    config,
+    golem,
+    shiny
+    testthat,
+    roxygen2,
+    usethis,
+    remotes,
+    devtools,
+    shinyWidgets,
+    pkgload,
+    rsconnect,
+    miniUI
