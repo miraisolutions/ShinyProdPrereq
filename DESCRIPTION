@@ -7,7 +7,7 @@ License: AGPL-3
 Imports: 
     config,
     golem,
-    shiny
+    shiny,
     testthat,
     roxygen2,
     usethis,
