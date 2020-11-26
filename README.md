@@ -10,6 +10,9 @@ Package prerequisites for [Mirai's workshop "Bring your Shiny App to Production"
   ``` r
   install.packages(c("remotes", "renv"))
   remotes::install_deps()
+  ```
+  and then
+  ```
   renv::activate()
-  renv::restore() # you can ignore warnings about a different R version
+  renv::restore(prompt = FALSE) # you can ignore warnings about a different R version
   ```
