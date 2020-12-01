@@ -1,6 +1,6 @@
 # Bring your Shiny App to Production Workshop Prerequisites
 
-Package prerequisites for [Mirai's workshop "Bring your Shiny App to Production"](https://github.com/miraisolutions/ShinyProdWorkshop/#readme) can be fulfilled using this repo as follows:
+Package prerequisites for [Mirai's workshop "Bring your Shiny App to Production"](https://mirai-solutions.ch/services/workshops/shinyapp-pro/) can be fulfilled using this repo as follows:
 
 - Create a new RStudio project from the repo (https://github.com/miraisolutions/ShinyProdPrereq)
   ```
